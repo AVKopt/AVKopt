@@ -12,6 +12,7 @@
 
 [***Хакатоны и мастерские***](https://github.com/AVKopt/Hacatons)
 
+[***Pet проекты***](https://github.com/AVKopt/Pet_Projects)
 
 
 <!--
